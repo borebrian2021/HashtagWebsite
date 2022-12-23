@@ -662,9 +662,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AMBIENT\\Downloads\\Mecbik\\Mecbik.csproj",
-      "projectName": "Mecbik",
-      "projectPath": "C:\\Users\\AMBIENT\\Downloads\\Mecbik\\Mecbik.csproj",
+      "projectUniqueName": "C:\\Users\\AMBIENT\\Downloads\\Mecbik\\HashtagTech.csproj",
+      "projectName": "HashtagTech",
+      "projectPath": "C:\\Users\\AMBIENT\\Downloads\\Mecbik\\HashtagTech.csproj",
       "packagesPath": "C:\\Users\\AMBIENT\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\AMBIENT\\Downloads\\Mecbik\\obj\\",
       "projectStyle": "PackageReference",

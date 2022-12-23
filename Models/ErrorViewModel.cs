@@ -1,6 +1,6 @@
 using System;
 
-namespace Mecbik.Models
+namespace HashTag.Models
 {
     public class ErrorViewModel
     {

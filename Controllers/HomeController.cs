@@ -1,4 +1,4 @@
-﻿using Mecbik.Models;
+﻿using HashTag.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Mecbik.Controllers
+namespace HashTag.Controllers
 {
     public class HomeController : Controller
     {
