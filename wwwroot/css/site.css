@@ -2151,3 +2151,11 @@ section {
     font-size: 20px;
     color: #1c98f7 !important;
 }
+.submitButton {
+    background: #1c98f7;
+    border: 0;
+    padding: 10px 32px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 4px;
+}
